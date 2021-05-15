@@ -19,5 +19,9 @@ h2,h1,h3,p{
     background-color: rgba(0, 0, 0, 0);
 }
 .navbar {
-    background-color: transparent !important;
+    background-color: transparent;
+    font-weight: 400;
   }
+.nav-link{
+    color: black;
+}
