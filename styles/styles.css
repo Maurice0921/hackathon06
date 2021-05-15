@@ -1,0 +1,23 @@
+.section1{
+    height: 100vh;
+}
+.imagen{
+    height: 80vh;
+    position: relative;
+}
+.section2{
+    height:100vh;
+}
+h2,h1,h3,p{
+    display: inline-block;
+}
+.bar{
+    position: absolute;
+    z-index: 1;
+    width: 50%;
+    margin: 0 20%;
+    background-color: rgba(0, 0, 0, 0);
+}
+.navbar {
+    background-color: transparent !important;
+  }
